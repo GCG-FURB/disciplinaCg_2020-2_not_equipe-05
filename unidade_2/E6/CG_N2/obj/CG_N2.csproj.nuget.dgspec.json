@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\CG_N2.csproj": {}
+  },
+  "projects": {
+    "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\CG_N2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\CG_N2.csproj",
+        "projectName": "CG_N2",
+        "projectPath": "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\CG_N2.csproj",
+        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
+        "outputPath": "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "OpenTK.NetCore": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
