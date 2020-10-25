@@ -51,6 +51,12 @@ namespace gcgcg
             Console.WriteLine(" --- Ajuda / Teclas: ");
             Console.WriteLine(" [  H     ] mostra teclas usadas. ");
 
+            Circulo circulo = new Circulo("Circulo1", null, new Ponto4D(0.0, 0.0, 0.0, 1.0), 100);
+            circulo.ObjetoCor.CorR = 255; circulo.ObjetoCor.CorG = 255; circulo.ObjetoCor.CorB = 0;
+            objetosLista.Add(circulo);
+
+
+
             // obj_Retangulo = new Retangulo("A", null, new Ponto4D(50, 50, 0), new Ponto4D(150, 150, 0));
             // obj_Retangulo.ObjetoCor.CorR = 255; obj_Retangulo.ObjetoCor.CorG = 0; obj_Retangulo.ObjetoCor.CorB = 255;
             // objetosLista.Add(obj_Retangulo);
@@ -86,11 +92,7 @@ namespace gcgcg
             Sru3D();
 #endif
 
-            Circulo circulo = new Circulo("Circulo1", null, new Ponto4D(0.0, 0.0, 0.0, 1.0), 100);
-            circulo.ObjetoCor.CorR = 255; circulo.ObjetoCor.CorG = 255; circulo.ObjetoCor.CorB = 0;
-            objetosLista.Add(circulo);
-
-
+            
             for (var i = 0; i < objetosLista.Count; i++)
                 objetosLista[i].Desenhar();
             if (bBoxDesenhar && (objetoSelecionado != null))
