@@ -32,7 +32,7 @@ namespace gcgcg
             base.PontosRemoverTodos();
             //chama o metodo para gerar a spline e add na base;
             gerarSpline();
-            GL.LineWidth(4);
+            GL.LineWidth(3);
             GL.Begin(PrimitiveType.LineStrip);
             foreach (Ponto4D pto in pontosLista)
             {
@@ -93,7 +93,12 @@ namespace gcgcg
 
         public void diminuirPontos()
         {
-            this.qtdPontos--;
+            {
+                //se for 1, não pode diminuir, senão acontecerá dividão por 0 e trava
+                if (qtdPontos != 1)
+                    this.qtdPontos--;
+            }
+
         }
 
         public void aumentarPontos()
