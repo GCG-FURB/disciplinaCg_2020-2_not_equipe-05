@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Trabalho 2\\E5\\CG_N2\\CG_N2.csproj": {}
+    "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E5\\CG_N2\\CG_N2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Trabalho 2\\E5\\CG_N2\\CG_N2.csproj": {
+    "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E5\\CG_N2\\CG_N2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Trabalho 2\\E5\\CG_N2\\CG_N2.csproj",
+        "projectUniqueName": "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E5\\CG_N2\\CG_N2.csproj",
         "projectName": "CG_N2",
-        "projectPath": "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Trabalho 2\\E5\\CG_N2\\CG_N2.csproj",
+        "projectPath": "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E5\\CG_N2\\CG_N2.csproj",
         "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Trabalho 2\\E5\\CG_N2\\obj\\",
+        "outputPath": "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E5\\CG_N2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"

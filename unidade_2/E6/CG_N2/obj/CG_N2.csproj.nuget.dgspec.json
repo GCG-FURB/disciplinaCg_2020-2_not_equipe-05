@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\CG_N2.csproj": {}
+    "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E6\\CG_N2\\CG_N2.csproj": {}
   },
   "projects": {
-    "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\CG_N2.csproj": {
+    "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E6\\CG_N2\\CG_N2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\CG_N2.csproj",
+        "projectUniqueName": "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E6\\CG_N2\\CG_N2.csproj",
         "projectName": "CG_N2",
-        "projectPath": "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\CG_N2.csproj",
+        "projectPath": "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E6\\CG_N2\\CG_N2.csproj",
         "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuario\\Documents\\FURB\\6º Semestre\\Computação Gráfica\\disciplina-cg-master\\CG\\Ex06\\CG_N2\\obj\\",
+        "outputPath": "C:\\Users\\Micro\\Desktop\\FURB\\Atual\\CG\\Projetos\\Git\\cg_2020-2_not_equipe-05\\unidade_2\\E6\\CG_N2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
