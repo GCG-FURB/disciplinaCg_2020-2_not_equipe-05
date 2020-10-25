@@ -1,0 +1,9 @@
+C:\Users\Micro\Desktop\FURB\Atual\CG\Projetos\CG_Biblioteca\bin\Debug\netcoreapp3.1\CG_Biblioteca.deps.json
+C:\Users\Micro\Desktop\FURB\Atual\CG\Projetos\CG_Biblioteca\bin\Debug\netcoreapp3.1\CG_Biblioteca.dll
+C:\Users\Micro\Desktop\FURB\Atual\CG\Projetos\CG_Biblioteca\bin\Debug\netcoreapp3.1\CG_Biblioteca.pdb
+C:\Users\Micro\Desktop\FURB\Atual\CG\Projetos\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.csprojAssemblyReference.cache
+C:\Users\Micro\Desktop\FURB\Atual\CG\Projetos\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\FURB\Atual\CG\Projetos\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\Micro\Desktop\FURB\Atual\CG\Projetos\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\FURB\Atual\CG\Projetos\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.dll
+C:\Users\Micro\Desktop\FURB\Atual\CG\Projetos\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.pdb
