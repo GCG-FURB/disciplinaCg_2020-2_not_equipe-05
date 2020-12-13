@@ -48,7 +48,7 @@ namespace gcgcg
 
         private bool bBoxDesenhar = false;
         int mouseX, mouseY;   //TODO: achar método MouseDown para não ter variável Global
-        private Poligono objetoNovo = null;
+
 
 #if CG_Privado
         // private Retangulo obj_Retangulo;
@@ -308,12 +308,6 @@ namespace gcgcg
                 bBoxDesenhar = !bBoxDesenhar;
             else if (e.Key == Key.Enter)
             {
-                if (objetoNovo != null)
-                {
-                    objetoNovo.PontosRemoverUltimo();   // N3-Exe6: "truque" para deixar o rastro
-                    objetoSelecionado = objetoNovo;
-                    objetoNovo = null;
-                }
             }
             else if (e.Key == Key.Space)
             {

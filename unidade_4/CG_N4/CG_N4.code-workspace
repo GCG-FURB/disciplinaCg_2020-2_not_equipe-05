@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CG_Biblioteca",
+			"path": "../CG_Biblioteca"
+		},
+		{
+			"name": "CG_N4",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
